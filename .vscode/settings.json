@@ -33,7 +33,7 @@
     "editor.renderWhitespace": "all",
     "editor.detectIndentation": false, // 效果比cpptools要好
     "editor.tabSize": 4,
-    "editor.formatOnType": true, // 输入时就进行格式化，默认触发字符较少，分号可以触发
+    "editor.formatOnType": false, // 输入时就进行格式化，默认触发字符较少，分号可以触发
     "editor.snippetSuggestions": "top", // snippets代码优先显示补全
 
     "vim.useSystemClipboard": true,
